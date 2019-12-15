@@ -5,3 +5,6 @@ Welcome Welcome Welcome!
 2.B.Sc in CSE
 ## Abilities
 Nothing
+
+
+![Photo!](nview.jpg)
